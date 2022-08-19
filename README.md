@@ -6,5 +6,5 @@
 play with the live demo: http://3d-galaxy-generator.surge.sh/
 
 ### Preview
-![architecture](https://raw.githubusercontent.com/konstantinsteinmiller/3d-galaxy-generatormaster/galaxy-generator.png)
-![architecture](https://raw.githubusercontent.com/konstantinsteinmiller/3d-galaxy-generator/master/galaxy-generator-with-modify-controls.png)
+![Spiraling Galaxy](https://raw.githubusercontent.com/konstantinsteinmiller/3d-galaxy-generator/master/public/galaxy-generator.png)
+![With modify controls](https://raw.githubusercontent.com/konstantinsteinmiller/3d-galaxy-generator/master/public/galaxy-generator-with-modify-controls.png)
